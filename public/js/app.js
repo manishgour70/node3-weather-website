@@ -1,4 +1,4 @@
-console.log('Client side java script has been loaded')
+//console.log('Client side java script has been loaded')
 const messageOne=document.querySelector('#message_1')
 const messageTwo=document.querySelector('#message_2')
 
